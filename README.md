@@ -4,7 +4,7 @@
 
 # Awesome Straico [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Straico resources, tools, articles and more. [Straico](https://straico.com)^† is a unified AI workspace that provides seamless access to multiple generative AI models for text, images, and audio. It enables parallel conversations with different LLMs, supports multimedia context integration, and offers powerful API access for developers.
+A curated list of awesome Straico resources, tools, articles and more. [Straico](https://platform.straico.com/signup?fpr=awesomestraico)^† is a unified AI workspace that provides seamless access to multiple generative AI models for text, images, and audio. It enables parallel conversations with different LLMs, supports multimedia context integration, and offers powerful API access for developers.
 
 ^†_Community insights ahead._
 
