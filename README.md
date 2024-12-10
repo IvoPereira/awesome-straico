@@ -33,7 +33,8 @@ Key Features:
 - [Tools](#tools)
 - [Articles](#articles)
 - [Media & Learning](#media--learning)
-- [Templates](#templates)
+- [Templates & Prompts](#templates--prompts)
+- [Model Recommendations](#model-recommendations)
 - [RAG](#rag)
 - [Agents](#agents)
 - [Contributing](#contributing)
@@ -72,9 +73,6 @@ Key Features:
 - [TaskMagic](https://www.taskmagic.com/) - Convert walkthrough videos into automated web tasks, eliminating repetitive manual work
 - [ViinyxAI](https://www.viinyx.com/) - All-in-one AI assistant supporting multiple models including GPT-4, GPT-4o, Gemini 1.5, Claude 3+, with custom API key connections
 - [ZeroWork](https://www.zerowork.io/) - No-code automation platform for web scraping and task automation, with Straico integration via HTTP requests ([Community Template](https://discord.com/channels/945706937020973097/1255869783510093864) available in [ZeroWork Discord](https://discord.gg/JkkCNmVBeg))
-
-### Community Templates & Workflows
-*Ready-to-use templates and workflows created by the community*
 
 ## API Wrappers
 
@@ -122,13 +120,11 @@ Key Features:
 ### Talks & Presentations
 *Conference talks, webinars, and presentations featuring Straico.*
 
-## Templates
+## Templates & Prompts
 
-*Curated list of useful Straico templates and prompts.*
+*Curated list of useful Straico templates and prompting guidelines.*
 
-### Development Templates
-- Prompt Engineering Guidelines (TBD)
-- Integration Boilerplates (TBD)
+- [The Power of Template Prompts: Boost Your Productivity with Straico](https://straico.com/the-power-of-template-prompts-boost-your-productivity-with-straico/) ![Official](https://img.shields.io/badge/official-blue) - Guide on using Straico's template prompts to enhance productivity by streamlining AI interactions and reducing repetitive tasks.
 
 ## Model Recommendations
 
