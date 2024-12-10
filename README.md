@@ -172,8 +172,7 @@ Key Features:
 *Resources and examples for Retrieval-Augmented Generation with Straico.*
 
 ### Tutorials
-- [Introduction to Straico’s latest RAG API upgrade](https://straico.com/rag-intro-api) ![Official](https://img.shields.io/badge/official-blue)  
-  Guide on using Straico's API for Retrieval-Augmented Generation (RAG) to enhance AI responses with external data.
+- [Introduction to Straico’s latest RAG API upgrade](https://straico.com/rag-intro-api) ![Official](https://img.shields.io/badge/official-blue) - Guide on using Straico's API for Retrieval-Augmented Generation (RAG) to enhance AI responses with external data.
 - [Multiple Files Upload Guide](https://www.youtube.com/watch?v=aKAPY03ciI4) - Comprehensive tutorial on uploading multiple files to Straico RAG
 - [RAG Tutorial with Make.com](https://www.youtube.com/watch?v=OEi7DX6hB5M) - Complete guide on connecting Straico AI with Make.com API integration
 
