@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://platform.straico.com/signup?fpr=awesomestraico"><img src="straico-logo.png" alt="Straico Logo" style="display: block; margin: 0 auto; margin-bottom: 30px;"></a>
+</p>
+
 # Awesome Straico [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Straico resources, tools, articles and more. [Straico](https://straico.com)^† is a unified AI workspace that provides seamless access to multiple generative AI models for text, images, and audio. It enables parallel conversations with different LLMs, supports multimedia context integration, and offers powerful API access for developers.
@@ -6,7 +10,9 @@ A curated list of awesome Straico resources, tools, articles and more. [Straico]
 
 > **Community Note**: Building this awesome list takes time and passion. Our friends at Straico have been incredibly supportive, offering a little something special for folks who discover Straico through our community.
 > 
-> [10% off your subscription and 1,000 free coins to explore](https://platform.straico.com/signup?fpr=ivo70) 🎁 – helping makers build awesome things.
+> [10% off your subscription and 1,000 free coins to explore](https://platform.straico.com/signup?fpr=awesomestraico) 🎁 – helping makers build awesome things.
+> 
+> **Note:** Any links to Straico's platform are affiliate links that support the time spent on keeping this list updated and relevant.
 
 Key Features:
 - 30+ Language Models for diverse AI interactions
