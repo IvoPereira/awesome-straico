@@ -62,6 +62,7 @@ Key Features:
 - [Albato](https://albato.com/apps/straico) - Workflow automation platform supporting Straico API integration
 - [AlterHQ](https://alterhq.com/) - Native macOS AI assistant with AppSense technology for contextual awareness across applications
 - [BizReply](https://bizreply.co) - AI-powered social media engagement tool that identifies relevant posts and generates contextual responses using your brand voice
+- [Enconvo](https://github.com/Enconvo/straico) - Native macOS AI assistant integration enabling seamless communication with Straico's chat, RAG, and agents through the Enconvo platform (requires Enconvo v1.8.8+)
 - [Flowmattic](https://flowmattic.com/integration/straico/) - Workflow automation for WordPress with Straico integration
 - [LiteLLM](https://gist.github.com/jayrinaldime/3f53d3621618eadfaa7a5942d538324a) - Unified LLM Gateway for managing authentication and load balancing across 100+ LLMs in OpenAI format
 - [Make.com](https://www.make.com) - Advanced integration platform with Straico capabilities
