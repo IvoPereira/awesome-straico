@@ -12,7 +12,7 @@ A curated list of awesome Straico resources, tools, articles and more. [Straico]
 > 
 > [10% off your subscription and 1,000 free coins to explore](https://platform.straico.com/signup?fpr=awesomestraico) 🎁 – helping makers build awesome things.
 > 
-> **Note:** Any links to Straico's platform are affiliate links that support the time spent on keeping this list updated and relevant.
+> **Note:** Links to Straico's platform and some other resources may contain affiliate links that support the time spent on keeping this list updated and relevant.
 
 Key Features:
 - 30+ Language Models for diverse AI interactions
@@ -71,6 +71,7 @@ Key Features:
 - [Snippety](https://youtu.be/qUF6GwnO5lM) - AI-powered smart placeholders and template generation tool
 - [StraicoForWP](https://github.com/RoboRiley/StraicoForWP) - WordPress plugin for AI-powered post and page creation
 - [TaskMagic](https://www.taskmagic.com/) - Convert walkthrough videos into automated web tasks, eliminating repetitive manual work
+- [TubeOnAI](https://tubeonai.com//?via=IvoPer) - All-in-one AI summarizer for videos, podcasts, PDFs, and web articles, enabling quick content consumption and repurposing for enhanced productivity
 - [ViinyxAI](https://www.viinyx.com/) - All-in-one AI assistant supporting multiple models including GPT-4, GPT-4o, Gemini 1.5, Claude 3+, with custom API key connections
 - [ZeroWork](https://www.zerowork.io/) - No-code automation platform for web scraping and task automation, with Straico integration via HTTP requests ([Community Template](https://discord.com/channels/945706937020973097/1255869783510093864) available in [ZeroWork Discord](https://discord.gg/JkkCNmVBeg))
 
