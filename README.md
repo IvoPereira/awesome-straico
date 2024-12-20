@@ -111,6 +111,7 @@ Key Features:
 - 🇺🇸 [AI-Powered PDF Invoice Manager](https://www.youtube.com/watch?v=hlO_oLSPLAk) - Building an invoice management system with Straico in Robomotion
 - 🇺🇸 [Building an AI Research Agent](https://www.youtube.com/watch?v=3hozFgV3xjc) - Step-by-step guide on creating a research agent using ActivePieces and Perplexity AI
 - 🇺🇸 [Custom Template Creation Guide](https://straico.com/how-to-create-a-custom-template-in-straico-a-step-by-step-guide/) - Learn how to create and customize templates in Straico
+- 🇺🇸 [Generate Visuals with Straico](https://youtu.be/175NkEnODCo) ![Official](https://img.shields.io/badge/official-blue) - Quick tutorial on using sample images to generate visuals with Straico's image generation capabilities
 - 🇺🇸 [Multi-API Integration with BizReply](https://youtu.be/6KIfC6WQOUc) - Tutorial on connecting OpenAI, Straico, and Gemini APIs with BizReply's BYOK feature
 - 🇺🇸 [Personal Experience with Straico](https://youtu.be/A2tvOQxs9Og) - Comprehensive review by Selena Tramayne on using Straico for workflow optimization, comparing AI models, and organizing prompts
 - 🇪🇸 [Todos los modelos de A.I. en un único lugar](https://www.youtube.com/watch?v=pej6FPL8XeU) - Overview of Straico's AI model integration capabilities
